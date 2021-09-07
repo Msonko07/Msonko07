@@ -1,0 +1,403 @@
+{
+  "question_1": {
+    "name": "Appréciation de l'exploitation",
+    "children": [
+      {
+        "question": "Pertinence de la localisation par rapport au projet",
+        "response_option": [
+          {
+            "point": "5",
+            "name": "Très adaptée"
+          },
+          {
+            "point": "4",
+            "name": "Adaptée"
+          },
+          {
+            "point": "2",
+            "name": "Peu adaptée"
+          },
+          {
+            "point": "1",
+            "name": "Non adaptée"
+          }
+        ]
+      },
+      {
+        "question": "L'entreprise est elle déja formalisée?",
+        "response_option": [
+          {
+            "point": "4",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Foncier",
+        "response_option": [
+          {
+            "point": "4",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Aménagements",
+        "response_option": [
+          {
+            "point": "3",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          },
+          {
+            "point": "2",
+            "name": "Prévu"
+          }
+        ]
+      },
+      {
+        "question": "Equipements (Matériel d'exploitation, Véhicule, Machines etc …)",
+        "response_option": [
+          {
+            "point": "3",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          },
+          {
+            "point": "2",
+            "name": "Prévu"
+          }
+        ]
+      },
+      {
+        "question": "Intrants (Pépinières, semences, Phyto, Engrais, Arbres, matières premières etc …)",
+        "response_option": [
+          {
+            "point": "3",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          },
+          {
+            "point": "2",
+            "name": "Prévu"
+          }
+        ]
+      },
+      {
+        "question": "Immobilisations Animales",
+        "response_option": [
+          {
+            "point": "3",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          },
+          {
+            "point": "2",
+            "name": "Prévu"
+          }
+        ]
+      }
+    ],
+    "totalWeighting": "25"
+  },
+  "question_2": {
+    "name": "Analyse des compétances technique du porteur de projet et/ou des membres",
+    "children": [
+      {
+        "question": "Promoteur en activité",
+        "response_option": [
+          {
+            "point": "15",
+            "name": "Oui"
+          },
+          {
+            "point": "5",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Formation technique en lien avec l'activité",
+        "response_option": [
+          {
+            "point": "5",
+            "name": "Oui"
+          },
+          {
+            "point": "2",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Nombre d'années d'expérience pratique",
+        "response_option": [
+          {
+            "point": "7",
+            "name": "Pas d'expérience"
+          },
+          {
+            "point": "14",
+            "name": "Inférieur à 1 an"
+          },
+          {
+            "point": "21",
+            "name": "Entre 1 et 2 ans"
+          },
+          {
+            "point": "28",
+            "name": "Entre 2 et 5 ans"
+          },
+          {
+            "point": "35",
+            "name": "5 ans et plus"
+          }
+        ]
+      },
+      {
+        "question": "Acquisition des Compétences techniques requises",
+        "response_option": [
+          {
+            "point": "33",
+            "name": "Oui"
+          },
+          {
+            "point": "22",
+            "name": "partiellement"
+          },
+          {
+            "point": "11",
+            "name": "Non"
+          }
+        ]
+      }
+    ],
+    "totalWeighting": "88"
+  },
+  "question_3": {
+    "name": "Indicateurs des compétances en gestion du porteur de projet et/ou des membres",
+    "children": [
+      {
+        "question": "Formation en gestion",
+        "response_option": [
+          {
+            "point": "3",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Expérience en autoentreprenariat",
+        "response_option": [
+          {
+            "point": "5",
+            "name": "Oui"
+          },
+          {
+            "point": "1",
+            "name": "Non"
+          }
+        ]
+      },
+      {
+        "question": "Nombre d'années d'expérience en Gestion",
+        "response_option": [
+          {
+            "point": "7",
+            "name": "Pas d'expérience"
+          },
+          {
+            "point": "14",
+            "name": "Inférieur à 1 an"
+          },
+          {
+            "point": "21",
+            "name": "Entre 1 et 2 ans"
+          },
+          {
+            "point": "28",
+            "name": "Entre 2 et 5 ans"
+          },
+          {
+            "point": "35",
+            "name": "5 ans et plus"
+          }
+        ]
+      },
+      {
+        "question": "Temps de Gestion de l'Activité",
+        "response_option": [
+          {
+            "point": "5",
+            "name": "Partiel avec ouvriers"
+          },
+          {
+            "point": "10",
+            "name": "Partiel avec gestionnaire"
+          },
+          {
+            "point": "15",
+            "name": "A temps plein/recrutement gestionnaire"
+          }
+        ]
+      },
+      {
+        "question": "Marchés des Intrants - Approvisionnements",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "1",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "3",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Produits proposés et leurs caractéristiques",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "1",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "3",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Clientèle",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "5",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "15",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Marchés visés (Nouveau)",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "1",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "3",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Existence revenus mensuels",
+        "response_option": [
+          {
+            "point": "1",
+            "name": "Non"
+          },
+          {
+            "point": "5",
+            "name": "Oui"
+          }
+        ]
+      },
+      {
+        "question": "Prix proposés",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "1",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "3",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Information sur la concurrence",
+        "response_option": [
+          {
+            "point": "0",
+            "name": "Pas d'info"
+          },
+          {
+            "point": "1",
+            "name": "Non maitrisé"
+          },
+          {
+            "point": "3",
+            "name": "Maitrisé"
+          }
+        ]
+      },
+      {
+        "question": "Acquisition des Compétences en gestion requises",
+        "response_option": [
+          {
+            "point": "5",
+            "name": "Non"
+          },
+          {
+            "point": "22",
+            "name": "Partiellement"
+          },
+          {
+            "point": "44",
+            "name": "Oui"
+          }
+        ]
+      }
+    ],
+    "totalWeighting": "137"
+  }
+}

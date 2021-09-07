@@ -1,0 +1,16 @@
+{
+  "activity_month_number": "12",
+  "turnover": "0.05",
+  "estimated_charge": "0.02",
+  "salary": "0.03",
+  "employer_contribution": "0.15",
+  "stock_rotation_times": "30",
+  "customer_payment_terms": "30",
+  "supplier_payment_terms": "30",
+  "days_in_year": "360",
+  "inflation_rate": "0.02",
+  "discount_rate": "0.04",
+  "vat": "0.18",
+  "tax_rate": "0.3",
+  "bfr_in_months": "2"
+}
